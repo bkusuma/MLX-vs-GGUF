@@ -1,6 +1,5 @@
 # MLX-vs-GGUF
 Article from @anaclumos' extracranial
-@github/support What do you think about these updates?
 
 ---
 
